@@ -1,2 +1,2 @@
 # c-qx
-Plataforma de P&amp;D baseada em blockchain, computação quântica e inteligência artificial para simulações moleculares avançadas.
+Plataforma de Simulação Quântica para P&D. Para acelerar a pesquisa e desenvolvimento de novos fámacos, otimizando simulação molecular, descoberta de compostos e previsão de interações químicas. 
